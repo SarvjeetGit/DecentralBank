@@ -11,6 +11,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 // testing git revert --modified
-// git revert testing1 --modified2
 // new line in third commit
+// testing git revert
+//
+>>>>>>> parent of 878bf0e... test2
 serviceWorker.unregister();
